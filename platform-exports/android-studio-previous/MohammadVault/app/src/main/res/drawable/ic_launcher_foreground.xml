@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shield / Lock icon for Mohammad Vault -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,18 L28,30 L28,52 C28,67 39,80 54,84 C69,80 80,67 80,52 L80,30 Z" />
+    <path
+        android:fillColor="#7C3AED"
+        android:pathData="M54,30 C48,30 43,35 43,41 C43,45 45,48 48,50 L48,62 L60,62 L60,50 C63,48 65,45 65,41 C65,35 60,30 54,30 Z" />
+</vector>
